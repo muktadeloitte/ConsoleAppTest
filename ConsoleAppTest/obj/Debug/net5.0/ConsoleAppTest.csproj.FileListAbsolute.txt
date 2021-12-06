@@ -1,0 +1,16 @@
+C:\Users\muktads\source\repos\ConsoleAppTest\bin\Debug\net5.0\ConsoleAppTest.exe
+C:\Users\muktads\source\repos\ConsoleAppTest\bin\Debug\net5.0\ConsoleAppTest.deps.json
+C:\Users\muktads\source\repos\ConsoleAppTest\bin\Debug\net5.0\ConsoleAppTest.runtimeconfig.json
+C:\Users\muktads\source\repos\ConsoleAppTest\bin\Debug\net5.0\ConsoleAppTest.runtimeconfig.dev.json
+C:\Users\muktads\source\repos\ConsoleAppTest\bin\Debug\net5.0\ConsoleAppTest.dll
+C:\Users\muktads\source\repos\ConsoleAppTest\bin\Debug\net5.0\ref\ConsoleAppTest.dll
+C:\Users\muktads\source\repos\ConsoleAppTest\bin\Debug\net5.0\ConsoleAppTest.pdb
+C:\Users\muktads\source\repos\ConsoleAppTest\obj\Debug\net5.0\ConsoleAppTest.csproj.AssemblyReference.cache
+C:\Users\muktads\source\repos\ConsoleAppTest\obj\Debug\net5.0\ConsoleAppTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muktads\source\repos\ConsoleAppTest\obj\Debug\net5.0\ConsoleAppTest.AssemblyInfoInputs.cache
+C:\Users\muktads\source\repos\ConsoleAppTest\obj\Debug\net5.0\ConsoleAppTest.AssemblyInfo.cs
+C:\Users\muktads\source\repos\ConsoleAppTest\obj\Debug\net5.0\ConsoleAppTest.csproj.CoreCompileInputs.cache
+C:\Users\muktads\source\repos\ConsoleAppTest\obj\Debug\net5.0\ConsoleAppTest.dll
+C:\Users\muktads\source\repos\ConsoleAppTest\obj\Debug\net5.0\ref\ConsoleAppTest.dll
+C:\Users\muktads\source\repos\ConsoleAppTest\obj\Debug\net5.0\ConsoleAppTest.pdb
+C:\Users\muktads\source\repos\ConsoleAppTest\obj\Debug\net5.0\ConsoleAppTest.genruntimeconfig.cache
