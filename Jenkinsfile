@@ -7,7 +7,9 @@ pipeline{
              }
         }   
         stage('archive'){
-           archiveArtifacts(artifacts: '**/*.dll', followSymlinks: false)
+           steps{
+              archiveArtifacts(artifacts: '**/*.dll', followSymlinks: false)
+           }
         }
    }
 }
