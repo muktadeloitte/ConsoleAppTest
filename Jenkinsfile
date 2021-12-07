@@ -5,6 +5,9 @@ pipeline{
              steps{
                bat 'dotnet build'
              }
-          }   
-   }  
+        }   
+        stage('archive'){
+           archiveArtifacts(artifacts: '**/*.dll', followSymlinks: false)
+        }
+   }
 }
